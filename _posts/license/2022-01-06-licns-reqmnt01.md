@@ -1,15 +1,15 @@
 ---
 title: 소프트웨어 생명 주기 SDLC(Software Development Life Cycle)
 categories: [license, 정보처리기사]
-tags: [자격증, 정보처리기사, 정처기, 소프트웨어 설계, 소프트웨어 생명 주기, SDLC]
+tags: [자격증, 정보처리기사, 정처기, 소프트웨어 설계, 요구사항, 소프트웨어 생명 주기, SDLC]
 ---
 
-> ## 정보처리기사-소프트웨어 설계 정리01
+<span style="font-size:20pt; color=#2f2f2f;">**정보처리기사-소프트웨어 설계 : 요구사항 확인01**</span>
 
 아래 내용은 정보처리기사 자격증 시험공부를 위한 요약 및 정리입니다.<br>
 내용은 [**인프런 - 정보처리기사 필기**](https://www.inflearn.com/course/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%ED%95%84%EA%B8%B0-1/dashboard)를 참고하였습니다.
 
-
+---
 ### **소프트웨어 생명주기**
 ><span style="color:#986BB2">소프트웨어를 체계적으로 개발하고 관리하기 위하여 개발 과정을 단계별(개발을 위한 정의, 운용, 유지보수 등)로 나누어 구분한 것</span>
 
