@@ -10,3 +10,31 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 @import "{{ site.theme }}";
 
 /* append your custom style below */
+
+.title {
+  font-size: 28pt;
+}
+
+.title-sub-cont {
+  color:#986BB2;
+}
+
+.hidden-ment {
+  font-size: 11pt;
+  color:#9a9a9a;
+}
+
+.fot-word {
+  font-weight: bold;
+}
+
+.strong-red {
+  font-size: 14pt;
+  font-weight: bold;
+  color: #C73131
+}
+
+.center {
+  text-align: center;
+}
+
