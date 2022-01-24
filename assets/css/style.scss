@@ -15,6 +15,10 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
   font-size: 28pt;
 }
 
+.title-sub-fot {
+  font-size: 16pt;
+}
+
 .title-sub-cont {
   color:#986BB2;
 }
